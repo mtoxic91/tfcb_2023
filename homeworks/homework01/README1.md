@@ -17,7 +17,8 @@ casent_0901788_p1_high_Acanthomyrmex_ferox
 casent_0906296_p1_high_Cataglyphis_fortis
 
 ## LINKS
-
-
-## LISTS
+homeworks/homework01/images/casent0906296_p_1_high. -- Cataglyphis fortis.jpg
+homeworks/homework01/images/casent_0172345_Rhytidoponera_metallica.jpg
+homeworks/homework01/images/casent_0191696_Camponotus_darwinii.jpg
+homeworks/homework01/images/casent_0901788_p_1_high Acanthomyrmex ferox.jpg
 
