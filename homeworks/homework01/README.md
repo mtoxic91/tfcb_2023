@@ -57,7 +57,7 @@ This question assesses your ability to organize files and directories associated
 Organize files into a more consistent structure. Group images into a `images/` directory. Separate source code and data. Rename files to remove spaces and improve consistency. Commit changes and publish to your public GitHub repository.
 
 _Include the link to your `tfcb-homework01` GitHub repository here._
-https://github.com/mtoxic91/tfcb_2023/tree/main/homeworks/homework01
+https://github.com/mtoxic91/tfcb_2023/tree/main/homeworks/homework01/images
 
 ## Problem 5
 
