@@ -90,7 +90,7 @@ First use `pwd` to print out your current directory, and save that location.
 Now try changing your directory to `/`.
 Take a look around.
 What do you see?
-
+/lectures/lecture04/02-directories/purchase# 
 Now go back to where you were before.
 
 ---

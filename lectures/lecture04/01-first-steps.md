@@ -112,6 +112,8 @@ This is not a very convenient way to view a long file, because it spits out the 
 A better way is to use `less`.
 Before we try that, note:
 **you can navigate in `less` using the arrow keys, and exit using the letter `q`**.
+#Do not have less
+
 Try
 
     less sequence.gb
@@ -139,6 +141,8 @@ For this sequence file, lines containing header information start with a '\/'. I
 
 ## `man`: the built-in manual
 
+#no man command
+
 For more in depth help see the command `man`, which is short for "manual."
 The argument to `man` is the command you want to see documentation for.
 
@@ -154,11 +158,14 @@ Look at the overall structure of the document. What does the top describe? What 
 ## On your own
 
 Use any method you like to find documentation about the `wc` command, then use it to count the number of lines in `sequence.gb`.
+wc / sequence.gb
 
 Look at the documentation for the `ls` command to learn about the `-a` flag.
+-a, --all                  do not ignore entries starting with .
 
 Look at the documentation for the `grep` command to learn about the `-v` flag.
-
+  -v, --invert-match        select non-matching lines
+  
 ---
 
 Congratulations!

@@ -22,3 +22,13 @@ head -5 file.txt
 head -5 file
 
 Loop
+for i in {1..25}
+do echo $i
+done
+
+
+for i in {1..32} ; do echo text_$i > text_file_$i.txt ; done
+for i in {1..32} ; do mv text_file_$i.txt important_text_file_$i.txt ; done
+
+mkdir texts ; cd texts ; for i in {1..32} ; do echo text_$i > text_file_$i.txt ; done ; for pineapple in `ls *.txt` ; do mv $pineapple important_$pineapple ; done 
+
