@@ -1,0 +1,36 @@
+Test
+
+#231010
+
+Commands
+
+pwd
+echo $USER
+cd
+cd $HOME
+echo goodbye04>>file04.txt
+ls -ltr tfcb_2023octber10/
+
+today_is=october
+echo $today_is
+
+cat file01.txt ; cat file02.txt 
+
+
+#Lecture 05 (231023)
+head file.txt
+tail file.txt
+head -5 file.txt
+head -5 file
+
+Loop
+for i in {1..25}
+do echo $i
+done
+
+
+for i in {1..32} ; do echo text_$i > text_file_$i.txt ; done
+for i in {1..32} ; do mv text_file_$i.txt important_text_file_$i.txt ; done
+
+mkdir texts ; cd texts ; for i in {1..32} ; do echo text_$i > text_file_$i.txt ; done ; for pineapple in `ls *.txt` ; do mv $pineapple important_$pineapple ; done 
+
