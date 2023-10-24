@@ -1,0 +1,8 @@
+01-first-steps.md
+README.md
+quickref.md
+sequence.gb
+-rw-r--r-- 1 root root 10321 Oct  5 22:53 sequence.gb
+-rw-r--r-- 1 root root   607 Oct  5 22:53 quickref.md
+-rw-r--r-- 1 root root  3359 Oct 15 20:25 README.md
+-rw-r--r-- 1 root root  4290 Oct 15 20:26 01-first-steps.md

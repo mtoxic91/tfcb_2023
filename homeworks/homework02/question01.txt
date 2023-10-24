@@ -1,0 +1,11 @@
+echo My username is ;
+$Users;
+
+echo My home directory is; cd ; pwd
+
+echo The contents of the tfcb_2023/lectures/lecture04/ directory are;
+ls /workspaces/tfcb_2023/lectures/lecture04;
+
+cd /workspaces/tfcb_2023/homeworks/homework02;
+mkdir homework02;
+mv question01.txt /workspaces/tfcb_2023/homeworks/homework02/homework02;

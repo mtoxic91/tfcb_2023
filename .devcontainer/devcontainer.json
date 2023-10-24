@@ -1,5 +1,5 @@
 {
-    "image": "ghcr.io/fredhutch/tfcb_2023:latest",
+    "image": "ghcr.io/fredhutch/tfcb_2022:latest_custom",
     // "build": {
     //     "dockerfile": "./Dockerfile",
     // },

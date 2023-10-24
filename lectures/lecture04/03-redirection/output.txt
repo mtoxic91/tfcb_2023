@@ -1,0 +1,29 @@
+Sun Oct 15 21:43:30 UTC 2023
+         _.-'~~~~~~`-._
+        /      ||      \
+       /       ||       \
+      |        ||        |
+      | _______||_______ |
+      |/ ----- \/ ----- \|
+     /  (     )  (     )  \
+    / \  ----- () -----  / \
+   /   \      /||\      /   \
+  /     \    /||||\    /     \
+ /       \  /||||||\  /       \
+/_        \o========o/        _\
+  `--...__|`-._  _.-'|__...--'
+          |    `'    |
+total 25
+-rw-r--r-- 1 root root  4290 Oct 15 20:26 01-first-steps.md
+drwxrwxrwx 1 root root   512 Oct 15 20:26 02-directories
+drwxrwxrwx 1 root root   512 Oct 15 21:43 03-redirection
+drwxrwxrwx 1 root root   512 Oct  5 22:53 04-vim
+drwxrwxrwx 1 root root   512 Oct  5 22:53 05-history
+drwxrwxrwx 1 root root   512 Oct 15 20:26 06-scripting
+drwxrwxrwx 1 root root   512 Oct  5 22:53 07-more-interactive-shell
+-rw-r--r-- 1 root root  3359 Oct 15 20:25 README.md
+-rw-r--r-- 1 root root   607 Oct  5 22:53 quickref.md
+-rw-r--r-- 1 root root 10321 Oct  5 22:53 sequence.gb
+drwxrwxrwx 1 root root   512 Oct 15 21:37 slides
+drwxr-xr-x 1 root root   512 Oct 10 23:30 tfcb_2023octber10
+-rw-r--r-- 1 root root   393 Oct  5 22:53 vader.txt

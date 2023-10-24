@@ -12,6 +12,8 @@ Replace the lines specified in _italics_ with your answers and save as a text fi
 Complete the interactive tutorial.
 
 _Did you hit any points of frustration, and if so, how could we improve the material to avoid that frustration?_
+The git pull did not work at first, I had to figure out the command "git pull upstream main"
+Docker did not update automatically. I received help from my CS friend to set up commands for man, less, vi
 
 
 ## Problem 1
@@ -53,6 +55,18 @@ slides<br>
 vader.txt<br>
 
 _Paste your SCRIPT here (not the output)_
+echo My username is ;
+$Users;
+
+echo My home directory is; cd ; pwd
+
+echo The contents of the tfcb_2023/lectures/lecture04/ directory are;
+ls /workspaces/tfcb_2023/lectures/lecture04;
+
+cd /workspaces/tfcb_2023/homeworks/homework02;
+mkdir homework02;
+mv question01.txt /workspaces/tfcb_2023/homeworks/homework02/homework02;
+
 
 
 ## Problem 2
@@ -76,5 +90,9 @@ tfcb_2023/homeworks/homework02/list.txt
 You can make the contents of those files whatever you want (hint: slide 9... )
 
 _Paste your SCRIPT here (not the output)_
+mkdir question02
+cd question02
+
+for i in `cat /workspaces/tfcb_2023/homeworks/homework02/list.txt` ; do echo text_$i.txt > file$i.txt ; done
 
 

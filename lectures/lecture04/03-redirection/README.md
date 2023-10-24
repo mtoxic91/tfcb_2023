@@ -85,7 +85,7 @@ This appends the output of the command to our file.
 Now it's your turn.
 Make a file that has the date, a picture of Darth Vader, and the list of files in `lecture04`.
 You can use multiple commands to achieve this result.
-
+date > output.txt ; less ../vader.txt >> output.txt ; ls .. -l >> output.txt
 
 ---
 
