@@ -1,5 +1,8 @@
 git pull upsteam main
 
+#102623
+object.method()
+example: string.upper() #string is an object
 
 #231010
 
