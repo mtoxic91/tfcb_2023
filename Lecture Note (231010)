@@ -1,4 +1,6 @@
 git pull upsteam main
+jupyter nbconvert --to html your_file.ipynb
+
 
 #102623
 object.method()
